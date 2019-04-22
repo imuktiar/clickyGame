@@ -15,7 +15,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "clicky-game"
   },
   "browserslist": [
     ">0.2%",
